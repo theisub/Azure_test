@@ -1,0 +1,14 @@
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/bin/Debug/netcoreapp2.1/DSIP_.deps.json
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/bin/Debug/netcoreapp2.1/DSIP_.runtimeconfig.json
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/bin/Debug/netcoreapp2.1/DSIP_.runtimeconfig.dev.json
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/bin/Debug/netcoreapp2.1/DSIP_.dll
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/bin/Debug/netcoreapp2.1/DSIP_.pdb
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.csproj.CoreCompileInputs.cache
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.RazorAssemblyInfo.cache
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.RazorAssemblyInfo.cs
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.AssemblyInfoInputs.cache
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.AssemblyInfo.cs
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.RazorTargetAssemblyInfo.cache
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.dll
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.pdb
+/Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.csprojAssemblyReference.cache
