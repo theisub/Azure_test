@@ -12,3 +12,17 @@
 /Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.dll
 /Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.pdb
 /Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/Debug/netcoreapp2.1/DSIP_.csprojAssemblyReference.cache
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\bin\Debug\netcoreapp2.1\DSIP_.deps.json
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\bin\Debug\netcoreapp2.1\DSIP_.runtimeconfig.json
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\bin\Debug\netcoreapp2.1\DSIP_.runtimeconfig.dev.json
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\bin\Debug\netcoreapp2.1\DSIP_.dll
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\bin\Debug\netcoreapp2.1\DSIP_.pdb
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\obj\Debug\netcoreapp2.1\DSIP_.csprojAssemblyReference.cache
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\obj\Debug\netcoreapp2.1\DSIP_.csproj.CoreCompileInputs.cache
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\obj\Debug\netcoreapp2.1\DSIP_.RazorAssemblyInfo.cache
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\obj\Debug\netcoreapp2.1\DSIP_.RazorAssemblyInfo.cs
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\obj\Debug\netcoreapp2.1\DSIP_.AssemblyInfoInputs.cache
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\obj\Debug\netcoreapp2.1\DSIP_.AssemblyInfo.cs
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\obj\Debug\netcoreapp2.1\DSIP_.RazorTargetAssemblyInfo.cache
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\obj\Debug\netcoreapp2.1\DSIP_.dll
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\obj\Debug\netcoreapp2.1\DSIP_.pdb
