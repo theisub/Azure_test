@@ -25,7 +25,7 @@ namespace DSIP_.Services
             _items.Find(item => true).ToList();
 
         public Item Get(string id) =>
-            _items.Find<Item>(item => item.Id == id).FirstOrDefault();
+            _items.Find<Item>(item => item.id == id).FirstOrDefault();
 
         public Item Create(Item item)
         {
@@ -34,13 +34,13 @@ namespace DSIP_.Services
         }
 
         public void Update(string id, Item itemIn) =>
-            _items.ReplaceOne(item => item.Id == id, itemIn);
+            _items.ReplaceOne(item => item.id == id, itemIn);
 
         public void Remove(Item itemIn) =>
-            _items.DeleteOne(item => item.Id == itemIn.Id);
+            _items.DeleteOne(item => item.id == itemIn.id);
 
         public void Remove(string id) =>
-            _items.DeleteOne(item => item.Id == id);
+            _items.DeleteOne(item => item.id == id);
         // just to check the deployment
         
     }

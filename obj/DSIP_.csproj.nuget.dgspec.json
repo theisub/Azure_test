@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Basem/Documents/DSIP/DSIP/DSIP_/DSIP_.csproj": {}
+    "/Users/Basem/Downloads/Azure_test/DSIP_.csproj": {}
   },
   "projects": {
-    "/Users/Basem/Documents/DSIP/DSIP/DSIP_/DSIP_.csproj": {
+    "/Users/Basem/Downloads/Azure_test/DSIP_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Basem/Documents/DSIP/DSIP/DSIP_/DSIP_.csproj",
+        "projectUniqueName": "/Users/Basem/Downloads/Azure_test/DSIP_.csproj",
         "projectName": "DSIP_",
-        "projectPath": "/Users/Basem/Documents/DSIP/DSIP/DSIP_/DSIP_.csproj",
+        "projectPath": "/Users/Basem/Downloads/Azure_test/DSIP_.csproj",
         "packagesPath": "/Users/Basem/.nuget/packages/",
-        "outputPath": "/Users/Basem/Documents/DSIP/DSIP/DSIP_/obj/",
+        "outputPath": "/Users/Basem/Downloads/Azure_test/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/Basem/.nuget/NuGet/NuGet.Config"
+          "/Users/Basem/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"

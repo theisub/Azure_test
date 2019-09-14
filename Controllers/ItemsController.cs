@@ -69,7 +69,7 @@ namespace DSIP_.Controllers
                 return NotFound();
             }
 
-            _itemService.Remove(item.Id);
+            _itemService.Remove(item.id);
 
             return itemIn;
         }

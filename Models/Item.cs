@@ -8,15 +8,19 @@ namespace DSIP_.Models
     { 
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public string Id { get; set; }
+        public string id { get; set; }
 
         [BsonElement("Name")]
-        public string ItemName { get; set; }
+        public string itemName { get; set; }
 
-        public float Value { get; set; }
+        public float value { get; set; }
 
-        public string ItemMaster { get; set; }
+        public string itemMaster { get; set; }
     }
 }
 
 //5d7672457fc6dd4730c53de5
+/* mongoimport -h theisubdsip.documents.azure.com:10255 \
+ -d theisubdsip -c example -u theisubdsip \
+  -p tPl80uOKILxJwdIYZA34YdJ5X0IrUzOVtJMjihZPDCMNORmcsKNLvX23d7A9Oz1JsuKAuD7vact6ejg4hf4cyg== \
+  --ssl --jsonArray  --file db.json */
