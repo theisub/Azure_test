@@ -1,0 +1,10 @@
+language: csharp
+services: mongodb
+solution: DSIP_.sln
+before_script:
+  - nuget restore DSIP_.sln
+script: 
+  - dotnet test ./DSIP_Testing -c Release -f netcoreapp2.1
+matrix:
+  include:
+    - mono: latest
