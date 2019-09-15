@@ -21,9 +21,6 @@ jobs:
   - stage: deploy
     deploy:
       provider: azure_web_apps
-      username: AZURE_USER
-      password: AZURE_PASS
-      site: "DSIPTestin"
       
   
 matrix:
