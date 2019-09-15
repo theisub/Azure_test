@@ -1,11 +1,24 @@
+stages:
+  - build
+  - test
+
+
 language: csharp
 services: mongodb
 solution: DSIP_.sln
 dotnet: 2.1
-before_script:
-  - nuget restore DSIP_.sln
-script: 
-  - dotnet test ./DSIP_Testing -c Release -f netcoreapp2.1
+
+jobs:
+  include:
+  - stage: build
+    before_script:
+      - nuget restore DSIP_.sln
+    script: 
+      - msbuild /p:Configuration=Release DSIP_.sln
+  - stage: test
+    script:
+      - dotnet test ./DSIP_Testing -c Release -f netcoreapp2.1
+  
 matrix:
   include:
     - mono: latest
