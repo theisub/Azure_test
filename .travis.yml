@@ -1,6 +1,7 @@
 language: csharp
 services: mongodb
 solution: DSIP_.sln
+dotnet: 2.1
 before_script:
   - nuget restore DSIP_.sln
 script: 
