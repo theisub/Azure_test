@@ -1,0 +1,17 @@
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\bin\Release\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\bin\Release\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\bin\Release\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\bin\Release\netcoreapp2.1\DSIP_Testing.deps.json
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\bin\Release\netcoreapp2.1\DSIP_Testing.runtimeconfig.json
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\bin\Release\netcoreapp2.1\DSIP_Testing.runtimeconfig.dev.json
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\bin\Release\netcoreapp2.1\DSIP_Testing.dll
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\bin\Release\netcoreapp2.1\DSIP_Testing.pdb
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\bin\Release\netcoreapp2.1\DSIP_.dll
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\bin\Release\netcoreapp2.1\DSIP_.pdb
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\obj\Release\netcoreapp2.1\DSIP_Testing.csprojAssemblyReference.cache
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\obj\Release\netcoreapp2.1\DSIP_Testing.csproj.CoreCompileInputs.cache
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\obj\Release\netcoreapp2.1\DSIP_Testing.AssemblyInfoInputs.cache
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\obj\Release\netcoreapp2.1\DSIP_Testing.AssemblyInfo.cs
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\obj\Release\netcoreapp2.1\DSIP_Testing.csproj.CopyComplete
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\obj\Release\netcoreapp2.1\DSIP_Testing.dll
+C:\Users\Basem\Downloads\Azure_test-master\Azure_test-master\Azure_test\DSIP_Testing\obj\Release\netcoreapp2.1\DSIP_Testing.pdb

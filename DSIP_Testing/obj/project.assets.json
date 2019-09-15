@@ -7687,11 +7687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Basem\\Downloads\\Azure_test-master\\Azure_test-master\\DSIP_Testing\\DSIP_Testing.csproj",
+      "projectUniqueName": "C:\\Users\\Basem\\Downloads\\Azure_test-master\\Azure_test-master\\Azure_test\\DSIP_Testing\\DSIP_Testing.csproj",
       "projectName": "DSIP_Testing",
-      "projectPath": "C:\\Users\\Basem\\Downloads\\Azure_test-master\\Azure_test-master\\DSIP_Testing\\DSIP_Testing.csproj",
+      "projectPath": "C:\\Users\\Basem\\Downloads\\Azure_test-master\\Azure_test-master\\Azure_test\\DSIP_Testing\\DSIP_Testing.csproj",
       "packagesPath": "C:\\Users\\Basem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Basem\\Downloads\\Azure_test-master\\Azure_test-master\\DSIP_Testing\\obj\\",
+      "outputPath": "C:\\Users\\Basem\\Downloads\\Azure_test-master\\Azure_test-master\\Azure_test\\DSIP_Testing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7710,8 +7710,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Basem\\Downloads\\Azure_test-master\\Azure_test-master\\Azure_test\\DSIP_.csproj": {
-              "projectPath": "C:\\Users\\Basem\\Downloads\\Azure_test-master\\Azure_test-master\\Azure_test\\DSIP_.csproj"
+            "C:\\Users\\Basem\\Downloads\\Azure_test-master\\Azure_test-master\\Azure_test\\Azure_test\\DSIP_.csproj": {
+              "projectPath": "C:\\Users\\Basem\\Downloads\\Azure_test-master\\Azure_test-master\\Azure_test\\Azure_test\\DSIP_.csproj"
             }
           }
         }
