@@ -7,7 +7,17 @@ using System.Runtime.Serialization.Formatters;
 
 namespace DSIP_.Services
 {
-    public class ItemService
+    public interface IItemService
+    {
+        List<Item> Get();
+        Item Get(string id);
+        Item Create(Item item);
+        void Update(string id, Item itemIn);
+        void Remove(Item itemIn);
+        
+    }
+
+    public class ItemService : IItemService
     {
         private readonly IMongoCollection<Item> _items;
 
